@@ -612,7 +612,7 @@
 
     <div class="video-container" id="videoContainer">
         <video class="video-bg" muted loop playsinline id="bgVideo" preload="none">
-            <source src="./taikongdianti.mp4" type="video/mp4">
+            <source src="./bg.mp4" type="video/mp4">
         </video>
         <div class="video-overlay"></div>
     </div>
@@ -625,6 +625,7 @@
                 <li><a href="#features">功能</a></li>
                 <li><a href="#quickstart">快速开始</a></li>
                 <li><a href="#config">配置</a></li>
+                <li><a href="#notice">注意</a></li>
                 <li><a href="#demo">演示</a></li>
             </ul>
         </nav>
@@ -636,8 +637,8 @@
                 </div>
                 <h1 class="hero-title">Ham Hero</h1>
                 <p class="hero-subtitle">
-                    无线电爱好者个人主页生成器<br>
-                    轻松创建属于你自己的专属个人页面
+                    无线电爱好者个人主页<br>
+                    轻松创建属于你自己的专属个人页面,每个Ham的英雄之地
                 </p>
                 <div class="hero-buttons">
                     <a href="https://github.com/dariondong/Ham_Hero" class="btn btn-primary" target="_blank">
@@ -778,6 +779,25 @@
 }
                             </code>
                         </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section" id="notice">
+                <div class="section-title">
+                    <h2>注意事项</h2>
+                    <p>NOTICE</p>
+                </div>
+
+                <div class="cards-grid">
+                    <div class="card" style="grid-column: span 2;">
+                        <h3>背景视频</h3>
+                        <p>项目使用 <code>bg.mp4</code> 作为背景视频，你需要：</p>
+                        <ul class="feature-list">
+                            <li>将你的背景视频重命名为 <code>bg.mp4</code></li>
+                            <li>放入 <code>Ham_Hero</code> 根目录（与 index.html 同级）</li>
+                            <li>建议使用静音、循环的 MP4 视频文件</li>
+                        </ul>
                     </div>
                 </div>
             </section>
