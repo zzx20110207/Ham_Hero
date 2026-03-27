@@ -1,14 +1,14 @@
 {
     "callsign": "BG7AAA",
-    "name": "Darion",
+    "name": "zzx2011",
     "operatorLevel": "A级",
     "cqZone": 24,
     "ituZone": 44,
     "grid": "OL51",
     "location": {
         "country": "中国",
-        "province": "广东",
-        "city": "茂名"
+        "province": "浙江",
+        "city": "绍兴"
     },
     "description": "A级业余无线电操作员 | 追求通联的乐趣，期待空中相遇",
     "bands": {
@@ -55,4 +55,4 @@
         "version": "1.0.0",
         "built": "20260326"
     }
-}
+}update personal info
