@@ -1,5 +1,5 @@
 {
-    "callsign": "BG7AAA",
+    "callsign": "BG2321",
     "name": "zzx2011",
     "operatorLevel": "A级",
     "cqZone": 24,
@@ -25,15 +25,15 @@
     },
     "repeaters": [
         {
-            "name": "高州中继",
-            "description": "高州业余无线电中继台",
+            "name": "越城中继",
+            "description": "越城业余无线电中继台",
             "uplink": "434.125 MHz",
             "downlink": "439.125 MHz",
             "tone": "88.5 Hz"
         },
         {
-            "name": "粤西业余无线电链路",
-            "description": "模拟链路覆盖粤西地区"
+            "name": "越城业余无线电链路",
+            "description": "模拟链路覆盖越城地区"
         }
     ],
     "equipment": {
@@ -53,6 +53,6 @@
     "website": {
         "title": "Ham Hero - 无线电爱好者个人主页",
         "version": "1.0.0",
-        "built": "20260326"
+        "built": "20260328"
     }
 }update personal info
